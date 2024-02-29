@@ -3,7 +3,7 @@
 //2-1Challenge
 let redButton = document.getElementById("btn1");
 let greenButton = document.getElementById("btn2");
-//let body = document.querySelector("body")
+//let body = document.body
 
 redButton.addEventListener("click",function(){
     document.querySelector("body").style.backgroundColor = "red";
